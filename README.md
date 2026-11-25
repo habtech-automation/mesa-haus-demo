@@ -1,3 +1,4 @@
-# Sunset Steak & Cheese demo website
+# Mesa Haus, Brisbane demo website
 
-One page demo site built by Habtech for Sunset Steak & Cheese, St. Catharines. Single index.html, no build step.
+Demo one page website built by Habtech for Mesa Haus, Brisbane.
+Static site, open index.html. Demo preview only, not the live website.
